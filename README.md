@@ -78,8 +78,8 @@ We're building at the forefront of AI and blockchain technology, creating soluti
 ## 🤝 Join Us
 Stay updated with our latest developments:
 - Website: [classiclabs.wtf](https://www.classiclabs.wtf)
-- Twitter: [@classiclabs](https://twitter.com/yourusername)
-- GitHub: [Classic Labs](https://github.com/yourusername)
+- Twitter: [@barto_ai](https://twitter.com/barto_ai)
+- GitHub: [Classic Labs](https://github.com/classiclabsai)
 
 <br>
 
