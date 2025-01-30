@@ -1,6 +1,6 @@
 # 💬 Classic Labs
 ### Built Different - [classiclabs.wtf](https://www.classiclabs.wtf)
-![Screenshot](your-screenshot.jpg)
+![Classic Labs](https://cdn.prod.website-files.com/674396c59212c6ea348b24e0/679b8ce346082a7d5f3bd742_9096e32672b2f1c26141c50a8cf32b04.png)
 
 <br>
 
